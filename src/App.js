@@ -1,5 +1,6 @@
 import FirstComponent from "./FirstComponent";
 function App() {
+
   return (
     <div className="App">
         <h1>Sono in App</h1>
@@ -8,6 +9,3 @@ function App() {
   );
 }
 export default App;
-
-{/* <FirstComponent />
-<FirstComponent /> */}
