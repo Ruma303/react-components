@@ -7,5 +7,18 @@ h1 {
 }
 
 #color {
-    color: orange;
+    color: green;
+}
+
+.box {
+    padding: 2em;
+    margin: 1em 0;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-red {
+    background-color: red;
 }
